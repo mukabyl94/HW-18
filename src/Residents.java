@@ -1,4 +1,4 @@
-public class Residents {
+public abstract class Residents {
     private String[] names;
     private String address;
 
